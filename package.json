@@ -26,7 +26,6 @@
     "source-map-support": "^0.5.19"
   },
   "devDependencies": {
-    "beverage": "0.0.8",
     "coffee-inline-map": "^0.9.0",
     "coffee-script": "^1.12.7",
     "gulp": "^4.0.2"
